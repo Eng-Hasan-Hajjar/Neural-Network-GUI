@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+            Microsoft ResX Schema 
+        
+            Version 1.3
+                
+            The primary goals of this format is to allow a simple XML format 
+            that is mostly human readable. The generation and parsing of the 
+            various data types are done through the TypeConverter classes 
+            associated with the data types.
+        
+            Example:
+        
+                ... ado.net/XML headers & schema ...
+                <resheader name="resmimetype">text/microsoft-resx</resheader>
+                <resheader name="version">1.3</resheader>
+                <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+                <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+                <data name="Name1">this is my long string</data>
+                <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+                <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+                    [base64 mime encoded serialized .NET Framework object]
+                </data>
+                <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+                    [base64 mime encoded string representing a byte array form of the .NET Framework object]
+                </data>
+        
+            There are any number of "resheader" rows that contain simple 
+            name/value pairs.
+            
+            Each data row contains a name, and value. The row also contains a 
+            type or mimetype. Type corresponds to a .NET class that support 
+            text/value conversion through the TypeConverter architecture. 
+            Classes that don't support this are serialized and stored with the 
+            mimetype set.
+                     
+            The mimetype is used for serialized objects, and tells the 
+            ResXResourceReader how to depersist the object. This is currently not 
+            extensible. For a given mimetype the value must be set accordingly:
+        
+            Note - application/x-microsoft.net.object.binary.base64 is the format 
+                   that the ResXResourceWriter will generate, however the reader can 
+                   read any of the formats listed below.
+        
+            mimetype: application/x-microsoft.net.object.binary.base64
+            value   : The object must be serialized with 
+                    : System.Serialization.Formatters.Binary.BinaryFormatter
+                    : and then encoded with base64 encoding.
+        
+            mimetype: application/x-microsoft.net.object.soap.base64
+            value   : The object must be serialized with 
+                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+                    : and then encoded with base64 encoding.
+            mimetype: application/x-microsoft.net.object.bytearray.base64
+            value   : The object must be serialized into a byte array 
+                    : using a System.ComponentModel.TypeConverter
+                    : and then encoded with base64 encoding.
+        -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>1.3</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="neuron_img.Image" type="System.Drawing.Bitmap, System.Drawing, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        R0lGODlhZABkAPIAABQQFsHA/Nzc3WZaePrB/f///wAAAAAAACH5BAEAAAUALAAAAABkAGQAAAP/WLrc
+        /jDKSau9OOvNexVgKIJeaX5jqo5n661wHLo0Jd94rS94n+8tn/AH5AyPxKIFyUwqI82o7AmVWmPUxnUL
+        yyq4YFU2TGYpy+gZMM0W7NrtGhzums9Pdnspn3/x70Z/ehqCfISFgxeIhkuLjDaOfZCRkhKUj1WXgJma
+        mw+dlQ6gmAw+AaeoqKM+EDepr7BkBLO0tba3tl2fMbC9r1y4wcK0ulowvsipW8PMt1jGKsnSp8vN1s+l
+        0dPTVtbe2Dwp2+NS3tfFX9rj0uXCAQPw8fAAA87g6q/y+vDJQgEpuN7RA0BQHj176PC9IkjPIIB+OJSF
+        CHiQwICKsx4iXJFN/0Syiw8XcpMhEQQujAQD1Kq3UUw4j8kY5ltHTaFJWxdpBSB4LuGIaQVpsgPx6yYt
+        jBdZElAZbMrLENNADhBKlWktjbOSqszZ9N7PqCmr0ryFkmFBYU7TQR0XVOw6WxV3anyntGWKjmvBun0L
+        F0BWnlmHpS0gTu/ecQH/1hXsFaa0kIdLCvglLOW3xnmR0YM1VahNd4B7cnxKNOaAyTPZ/TtWMlhSc4MV
+        pkq6bzOyiK1xSYWNOfNss8Bt9zJV0+hK4Iu7oiNcON8+eRBxj0hsjthy5l8jr45SnfFovI73duuO9jpr
+        8e3I4wJHOrznaupzfYcme9uq62pXvL/vUpSrkX38zUfff5IF2N8uBpIxQYJhTMLgFQ4+KAUKEkbRSIVN
+        KIIhEhlsOMQhHvawQYhOYEAiex2eKCCIKqqxR4skBNGiHCe+EWIRHj6B4RgPeoFdgD7mt0qQ4F1CpH+a
+        HNlKJEouWEiTF3oCJYVpTNmBglbiMWGWOA7G5ZdghulFAgA7
+</value>
+  </data>
+  <data name="$this.Name">
+    <value>GraphicalNeuron</value>
+  </data>
+</root>
